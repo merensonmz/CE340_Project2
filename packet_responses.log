@@ -1,0 +1,5 @@
+2024-05-25 18:05:00,790 Ping response from 192.168.43.174: IP / ICMP 192.168.43.174 > 192.168.43.50 echo-reply 0
+2024-05-25 18:05:00,802 SYN response from 192.168.43.174 on port 80: IP / TCP 192.168.43.174:http > 192.168.43.50:ftp_data SA
+2024-05-25 18:05:11,984 Ping response from 192.168.43.174: IP / ICMP 192.168.43.174 > 192.168.43.50 echo-reply 0
+2024-05-25 18:05:50,936 Ping response from 192.168.43.174: IP / ICMP 192.168.43.174 > 192.168.43.50 echo-reply 0
+2024-05-25 18:05:50,969 SYN response from 192.168.43.174 on port 80: IP / TCP 192.168.43.174:http > 192.168.43.50:ftp_data SA
